@@ -12,3 +12,7 @@ u = True #boolean
 W = False #boolean
 
 print(type(W))
+
+#Casting
+a = int(1.5) #casting float to int
+print (a)
